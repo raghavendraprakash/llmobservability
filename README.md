@@ -4,7 +4,7 @@ LLM Observability with Langfuse, an open source LLM engineering platform.
 While both application observability and LLM observability share the goal of understanding and monitoring complex systems, the specific techniques, targets, and challenges differ due to the fundamental differences between traditional software applications and large language models. 
 LLM observability is an emerging field that aims to provide insights into the behavior of these powerful but often opaque models, enabling better transparency, accountability, and trust in their outputs.
 
-The challenges are different
+The challenges are different.
 Application observability deals with distributed systems, handling large volumes of data, and correlating events across multiple components, while LLM observability deals with understanding blackbox model behavior when provided different input contexts, to ensure acceptable degree of certainty.
 
 **Application observability:**
